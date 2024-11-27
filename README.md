@@ -55,6 +55,9 @@ Install FFmpeg using the package manager:
 ```bash
 sudo apt install ffmpeg
 ```
+## Screenshots
+![YT_video_downloader](https://github.com/user-attachments/assets/7344cf3d-2738-4c4a-9557-726d95b797ed)
+
 
 ## Usage
 
