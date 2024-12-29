@@ -4,18 +4,18 @@ A simple cross-platform YouTube video downloader with a graphical user interface
 
 ## Features
 
-- Download YouTube videos in the highest available resolution.
-- Download and merge audio with video using `ffmpeg`.
-- Custom filenames for downloaded videos.
-- Download subtitles if available.
-- Simple and intuitive GUI built with `tkinter`.
-- Progress bar to show download progress.
-- Supports Windows, macOS, and Linux.
+- Download YouTube videos in the highest available resolution
+- Download and merge audio with video using `ffmpeg`
+- Custom filenames for downloaded videos
+- Download subtitles if available
+- Simple and intuitive GUI built with `tkinter`
+- Progress bar to show download progress
+- Supports Windows, macOS, and Linux
 
 ## Requirements
 
 - Python 3.7+
-- [FFmpeg](https://ffmpeg.org/) installed or included in the app directory.
+- [FFmpeg](https://ffmpeg.org/) installed or included in the app directory
 - Dependencies:
   - `pytube` (or `pytubefix` if using a modified version)
   - `tkinter` (included with standard Python installations)
